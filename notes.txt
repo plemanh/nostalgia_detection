@@ -1,0 +1,2 @@
+Sans machine learning sur la nostalgie:
+55,7 secondes pour le traitement de 100 web entités => 0,55 secondes par web entité => 17 600 secondes pour 34280 web entités =  5 heures et 15 minutes environ
